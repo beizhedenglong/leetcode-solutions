@@ -1,0 +1,40 @@
+---
+id: maximum-subarray
+title: Maximum Subarray
+sidebar_label: Maximum Subarray
+---
+## Description
+<div class="description">
+<p>Given an integer array <code>nums</code>, find the contiguous subarray&nbsp;(containing at least one number) which has the largest sum and return its sum.</p>
+
+<p><strong>Example:</strong></p>
+
+<pre>
+<strong>Input:</strong> [-2,1,-3,4,-1,2,1,-5,4],
+<strong>Output:</strong> 6
+<strong>Explanation:</strong>&nbsp;[4,-1,2,1] has the largest sum = 6.
+</pre>
+
+<p><strong>Follow up:</strong></p>
+
+<p>If you have figured out the O(<em>n</em>) solution, try coding another solution using the divide and conquer approach, which is more subtle.</p>
+
+</div>
+
+## Solution
+```javascript
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+const maxSubArray = function (nums) {
+  let sum = nums[0]
+  let currentSum = nums[0]
+  for (let i = 1; i < nums.length; i++) {
+    currentSum += nums[i]
+    currentSum = Math.max(currentSum, nums[i])
+     sum = Math.max(currentSum, sum)
+  }
+  return sum
+}
+```
