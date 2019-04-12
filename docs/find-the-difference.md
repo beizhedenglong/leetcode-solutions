@@ -26,7 +26,7 @@ Explanation:
 </pre>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {string} s

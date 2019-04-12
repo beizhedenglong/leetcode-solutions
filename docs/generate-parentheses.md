@@ -23,7 +23,7 @@ For example, given <i>n</i> = 3, a solution set is:
 </pre>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number} n

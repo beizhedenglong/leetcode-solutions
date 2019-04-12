@@ -25,7 +25,7 @@ sidebar_label: Leaf-Similar Trees
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

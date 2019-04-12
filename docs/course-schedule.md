@@ -38,7 +38,7 @@ sidebar_label: Course Schedule
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 
 const hasCycle = (arr) => {

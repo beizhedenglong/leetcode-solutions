@@ -48,7 +48,7 @@ for (int i = 0; i &lt; len; i++) {
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number[]} nums

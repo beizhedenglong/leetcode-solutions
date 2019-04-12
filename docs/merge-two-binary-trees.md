@@ -34,7 +34,7 @@ Merged tree:
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

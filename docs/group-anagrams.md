@@ -27,7 +27,7 @@ sidebar_label: Group Anagrams
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {string[]} strs

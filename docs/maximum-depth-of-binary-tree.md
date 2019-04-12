@@ -26,7 +26,7 @@ sidebar_label: Maximum Depth of Binary Tree
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 
 

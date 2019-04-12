@@ -34,7 +34,7 @@ And the value to search: 2
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

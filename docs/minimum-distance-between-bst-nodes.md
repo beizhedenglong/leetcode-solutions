@@ -35,7 +35,7 @@ while the minimum difference in this tree is 1, it occurs between node 1 and nod
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

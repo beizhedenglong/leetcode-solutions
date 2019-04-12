@@ -38,7 +38,7 @@ sidebar_label: To Lower Case
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {string} str

@@ -24,7 +24,7 @@ Could you do it in O(n) time and O(1) space?</p>
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for singly-linked list.

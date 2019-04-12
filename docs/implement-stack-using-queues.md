@@ -35,7 +35,7 @@ stack.empty(); // returns false</pre>
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 const Queue = () => {
   const queue = []

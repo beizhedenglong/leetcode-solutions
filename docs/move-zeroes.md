@@ -21,7 +21,7 @@ sidebar_label: Move Zeroes
 </ol>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number[]} nums

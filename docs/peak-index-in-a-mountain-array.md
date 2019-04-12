@@ -39,7 +39,7 @@ sidebar_label: Peak Index in a Mountain Array
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number[]} A

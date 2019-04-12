@@ -30,7 +30,7 @@ sidebar_label: Keyboard Row
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {string[]} words

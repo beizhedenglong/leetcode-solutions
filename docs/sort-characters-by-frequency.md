@@ -50,7 +50,7 @@ Note that 'A' and 'a' are treated as two different characters.
 </p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 const frequencySort = (s) => {
   const map = {}

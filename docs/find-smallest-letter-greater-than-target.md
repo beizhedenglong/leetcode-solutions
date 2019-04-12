@@ -54,7 +54,7 @@ target = "k"
 </p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {character[]} letters

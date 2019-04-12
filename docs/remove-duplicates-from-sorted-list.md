@@ -23,7 +23,7 @@ sidebar_label: Remove Duplicates from Sorted List
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for singly-linked list.

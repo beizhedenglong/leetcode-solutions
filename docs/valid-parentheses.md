@@ -53,7 +53,7 @@ sidebar_label: Valid Parentheses
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {string} s

@@ -34,7 +34,7 @@ This problem was inspired by <a href="https://twitter.com/mxcl/status/6086820162
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

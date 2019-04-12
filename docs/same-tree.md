@@ -47,7 +47,7 @@ sidebar_label: Same Tree
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

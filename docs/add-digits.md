@@ -20,7 +20,7 @@ sidebar_label: Add Digits
 Could you do it without any loop/recursion in O(1) runtime?</p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number} num

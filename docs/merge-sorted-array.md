@@ -26,7 +26,7 @@ nums2 = [2,5,6],       n = 3
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number[]} nums1

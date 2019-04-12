@@ -23,7 +23,7 @@ sidebar_label: Add Binary
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {string} a

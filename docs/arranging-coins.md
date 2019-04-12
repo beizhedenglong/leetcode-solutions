@@ -39,7 +39,7 @@ Because the 4th row is incomplete, we return 3.
 </p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number} n

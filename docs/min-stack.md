@@ -37,7 +37,7 @@ minStack.getMin();   --> Returns -2.
 </p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * initialize your data structure here.

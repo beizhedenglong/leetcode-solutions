@@ -26,7 +26,7 @@ Given an array of <b>2n</b> integers, your task is to group these integers into 
 </p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number[]} nums

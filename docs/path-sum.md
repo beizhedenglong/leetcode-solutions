@@ -27,7 +27,7 @@ sidebar_label: Path Sum
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

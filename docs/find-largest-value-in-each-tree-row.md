@@ -23,7 +23,7 @@ sidebar_label: Find Largest Value in Each Tree Row
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

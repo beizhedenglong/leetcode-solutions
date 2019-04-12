@@ -38,7 +38,7 @@ sidebar_label: Squares of a Sorted Array
 </div>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number[]} A

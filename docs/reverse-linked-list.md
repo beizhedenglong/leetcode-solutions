@@ -20,7 +20,7 @@ sidebar_label: Reverse Linked List
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for singly-linked list.

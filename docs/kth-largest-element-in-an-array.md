@@ -25,7 +25,7 @@ You may assume k is always valid, 1 &le; k &le; array&#39;s length.</p>
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number[]} nums

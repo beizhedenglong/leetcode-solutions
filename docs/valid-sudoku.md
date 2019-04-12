@@ -67,7 +67,7 @@ sidebar_label: Valid Sudoku
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {character[][]} board

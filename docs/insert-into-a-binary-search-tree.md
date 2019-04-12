@@ -45,7 +45,7 @@ And the value to insert: 5
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

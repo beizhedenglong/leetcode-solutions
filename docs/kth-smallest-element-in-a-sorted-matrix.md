@@ -28,7 +28,7 @@ return 13.
 You may assume k is always valid, 1 &le; k &le; n<sup>2</sup>.</p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 const swap = (a, b, arr) => { // eslint-disable-line
   if (a !== b) {

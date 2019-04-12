@@ -35,7 +35,7 @@ You may assume both <b><i>s&nbsp;</i></b>and <b><i>t&nbsp;</i></b>have the same 
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {string} s

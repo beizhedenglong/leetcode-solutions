@@ -42,7 +42,7 @@ sidebar_label: Excel Sheet Column Title
 </pre>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number} n

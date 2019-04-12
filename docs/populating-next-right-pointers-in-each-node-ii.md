@@ -44,7 +44,7 @@ struct Node {
 </ul>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * // Definition for a Node.

@@ -44,7 +44,7 @@ randomSet.getRandom();
 </p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Initialize your data structure here.

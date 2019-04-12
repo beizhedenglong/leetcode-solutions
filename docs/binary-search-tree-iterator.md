@@ -42,7 +42,7 @@ iterator.hasNext(); // return false
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 // https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/
 

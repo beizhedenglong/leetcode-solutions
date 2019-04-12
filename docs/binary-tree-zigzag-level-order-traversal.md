@@ -30,7 +30,7 @@ return its zigzag level order traversal as:<br />
 </p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /*
  * @lc app=leetcode id=103 lang=javascript

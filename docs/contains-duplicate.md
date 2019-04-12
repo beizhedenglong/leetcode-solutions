@@ -29,7 +29,7 @@ sidebar_label: Contains Duplicate
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number[]} nums

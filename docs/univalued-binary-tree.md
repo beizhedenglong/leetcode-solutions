@@ -38,7 +38,7 @@ sidebar_label: Univalued Binary Tree
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

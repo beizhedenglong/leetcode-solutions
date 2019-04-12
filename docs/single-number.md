@@ -27,7 +27,7 @@ sidebar_label: Single Number
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 var singleNumber = function(nums) {
     nums = nums.sort((a, b) => a-b)

@@ -50,7 +50,7 @@ Can you solve it without using extra space?</p>
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for singly-linked list.

@@ -34,7 +34,7 @@ Bonus points if you could solve it both recursively and iteratively.
 </p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

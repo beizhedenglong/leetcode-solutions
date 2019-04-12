@@ -39,7 +39,7 @@ sidebar_label: Search Insert Position
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number[]} nums

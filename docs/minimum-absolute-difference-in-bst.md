@@ -31,7 +31,7 @@ The minimum absolute difference is 1, which is the difference between 2 and 1 (o
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

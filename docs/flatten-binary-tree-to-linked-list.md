@@ -35,7 +35,7 @@ sidebar_label: Flatten Binary Tree to Linked List
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

@@ -38,7 +38,7 @@ You may assume <code>pattern</code> contains only lowercase letters, and <code>s
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 const wordPattern = (pattern, str) => {
   const patternMap = Array.prototype.reduce.call(pattern, (map, c, index) => {

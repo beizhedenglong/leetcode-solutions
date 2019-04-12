@@ -31,7 +31,7 @@ sidebar_label: Top K Frequent Elements
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 const swap = (a, b, arr) => { // eslint-disable-line
   if (a !== b) {

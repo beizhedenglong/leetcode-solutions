@@ -20,7 +20,7 @@ There are two left leaves in the binary tree, with values <b>9</b> and <b>15</b>
 </p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

@@ -16,7 +16,7 @@ The length of <code>A</code> and <code>B</code> will be between 1 and 10000.</p>
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {string} A

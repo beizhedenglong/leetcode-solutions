@@ -48,7 +48,7 @@ Another valid answer is [5,2,6,null,4,null,7].
 </p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

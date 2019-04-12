@@ -26,7 +26,7 @@ sidebar_label: Minimum Depth of Binary Tree
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

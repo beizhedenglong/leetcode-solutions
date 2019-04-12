@@ -50,7 +50,7 @@ Given a binary search tree and the lowest and highest boundaries as <code>L</cod
 </p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

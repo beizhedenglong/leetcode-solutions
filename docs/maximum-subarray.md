@@ -21,7 +21,7 @@ sidebar_label: Maximum Subarray
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number[]} nums

@@ -29,7 +29,7 @@ sidebar_label: Maximum Depth of N-ary Tree
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * // Definition for a Node.

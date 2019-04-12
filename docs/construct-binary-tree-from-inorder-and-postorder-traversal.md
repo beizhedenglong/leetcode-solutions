@@ -28,7 +28,7 @@ postorder = [9,15,7,20,3]</pre>
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 
 const buildTree = (inorder, postorder) => {

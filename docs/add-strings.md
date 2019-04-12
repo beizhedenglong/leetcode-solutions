@@ -17,7 +17,7 @@ sidebar_label: Add Strings
 </p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {string} num1

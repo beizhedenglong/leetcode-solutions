@@ -31,7 +31,7 @@ Length of the array will not exceed 10,000.
 </p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number[]} nums

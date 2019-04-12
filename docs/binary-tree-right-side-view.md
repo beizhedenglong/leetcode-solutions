@@ -22,7 +22,7 @@ sidebar_label: Binary Tree Right Side View
 </pre>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

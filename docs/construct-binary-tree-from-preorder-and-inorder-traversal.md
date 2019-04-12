@@ -27,7 +27,7 @@ inorder = [9,3,15,20,7]</pre>
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

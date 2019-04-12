@@ -49,7 +49,7 @@ sidebar_label: Reverse Words in a String
 <p>For C programmers, try to solve it <em>in-place</em> in <em>O</em>(1) extra space.</p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {string} str

@@ -48,7 +48,7 @@ We then go to room 3.  Since we were able to go to every room, we return true.
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number[][]} rooms

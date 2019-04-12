@@ -37,7 +37,7 @@ sidebar_label: Binary Search
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number[]} nums

@@ -33,7 +33,7 @@ sidebar_label: Reverse String
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {character[]} s

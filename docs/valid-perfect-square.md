@@ -28,7 +28,7 @@ sidebar_label: Valid Perfect Square
 </div>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number} num

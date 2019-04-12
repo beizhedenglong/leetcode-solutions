@@ -44,7 +44,7 @@ Therefore, sum = 495 + 491 + 40 = <code>1026</code>.</pre>
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 const sumNumbers = (root) => {
   const isLeaf = node => node && !node.left && !node.right

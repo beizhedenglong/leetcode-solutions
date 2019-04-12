@@ -17,7 +17,7 @@ sidebar_label: Count Primes
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number} n

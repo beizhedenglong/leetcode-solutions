@@ -26,7 +26,7 @@ sidebar_label: Binary Tree Paths
 </pre>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

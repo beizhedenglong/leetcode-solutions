@@ -35,7 +35,7 @@ sidebar_label: Find Peak Element
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number[]} nums

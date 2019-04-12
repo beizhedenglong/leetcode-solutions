@@ -21,7 +21,7 @@ sidebar_label: Merge k Sorted Lists
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 const swap = (a, b, arr) => { // eslint-disable-line
   if (a !== b) {

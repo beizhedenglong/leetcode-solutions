@@ -16,7 +16,7 @@ sidebar_label: Remove Linked List Elements
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for singly-linked list.

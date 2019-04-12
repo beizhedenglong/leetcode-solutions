@@ -23,7 +23,7 @@ return 2.
 </p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {string} s

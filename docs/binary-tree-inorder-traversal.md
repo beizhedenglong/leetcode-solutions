@@ -23,7 +23,7 @@ sidebar_label: Binary Tree Inorder Traversal
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

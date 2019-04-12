@@ -44,7 +44,7 @@ You may assume the tree (i.e., the given root node) is not <b>NULL</b>.
 </p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /*
  * @lc app=leetcode id=513 lang=javascript

@@ -24,7 +24,7 @@ sidebar_label: Binary Tree Postorder Traversal
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

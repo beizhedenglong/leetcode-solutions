@@ -29,7 +29,7 @@ What if the inputs contain unicode characters? How would you adapt your solution
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 const wordPattern = (pattern, str) => {
   const patternMap = Array.prototype.reduce.call(pattern, (map, c, index) => {

@@ -40,7 +40,7 @@ Construct the maximum tree by the given array and output the root node of this t
 </p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

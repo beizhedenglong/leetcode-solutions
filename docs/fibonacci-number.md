@@ -48,7 +48,7 @@ F(N) = F(N - 1) + F(N - 2), for N &gt; 1.
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number} N

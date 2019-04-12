@@ -43,7 +43,7 @@ Since the list has two middle nodes with values 3 and 4, we return the second on
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for singly-linked list.

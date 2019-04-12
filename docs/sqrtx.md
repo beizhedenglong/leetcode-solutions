@@ -29,7 +29,7 @@ sidebar_label: Sqrt(x)
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number} x

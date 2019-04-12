@@ -44,7 +44,7 @@ sidebar_label: Balanced Binary Tree
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

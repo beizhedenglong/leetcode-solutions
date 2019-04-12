@@ -36,7 +36,7 @@ sidebar_label: N-ary Tree Level Order Traversal
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * // Definition for a Node.

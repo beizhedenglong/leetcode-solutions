@@ -29,7 +29,7 @@ sidebar_label: Find Minimum in Rotated Sorted Array
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /*
  * @lc app=leetcode id=153 lang=javascript

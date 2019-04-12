@@ -40,7 +40,7 @@ sidebar_label: Validate Binary Search Tree
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

@@ -15,7 +15,7 @@ sidebar_label: Merge Two Sorted Lists
 </p>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for singly-linked list.

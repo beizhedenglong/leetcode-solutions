@@ -55,7 +55,7 @@ sidebar_label: Linked List Cycle
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for singly-linked list.

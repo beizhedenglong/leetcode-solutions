@@ -39,7 +39,7 @@ sidebar_label: Intersection of Two Arrays II
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number[]} nums1

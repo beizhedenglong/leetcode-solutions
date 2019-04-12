@@ -45,7 +45,7 @@ sidebar_label: Unique Email Addresses
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {string[]} emails

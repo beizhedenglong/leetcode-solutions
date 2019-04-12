@@ -48,7 +48,7 @@ sidebar_label: Increasing Order Search Tree
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

@@ -22,7 +22,7 @@ sidebar_label: Happy Number
 </pre>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number} n

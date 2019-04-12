@@ -39,7 +39,7 @@ sidebar_label: Range Sum of BST
 </div>
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * Definition for a binary tree node.

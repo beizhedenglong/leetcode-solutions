@@ -31,7 +31,7 @@ The median is (2 + 3)/2 = 2.5
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 /**
  * @param {number[]} nums1

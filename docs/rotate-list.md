@@ -30,7 +30,7 @@ rotate 4 steps to the right:&nbsp;<code>2-&gt;0-&gt;1-&gt;NULL</code></pre>
 
 </div>
 
-## Solution
+## Solution(javascript)
 ```javascript
 
 

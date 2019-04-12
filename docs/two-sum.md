@@ -22,17 +22,17 @@ return [<strong>0</strong>, <strong>1</strong>].
 
 </div>
 
-## Solution
-```javascript
-var twoSum = function(nums, target) {
-
-    for(var i = 0; i < nums.length; i++) {
-        for(var j = i + 1; j< nums.length; j++){
-            if(nums[i] + nums[j] == target){
-                return [i,j];
-            }
-        }
-    }
-};
-
+## Solution(python3)
+```python3
+class Solution(object):
+    def twoSum(self, nums, target):
+        if len(nums) <= 1:
+            return False
+        buff_dict = {}
+        for i in range(len(nums)):
+            if nums[i] in buff_dict:
+                return [buff_dict[nums[i]], i]
+            else:
+                buff_dict[target - nums[i]] = i
+        
 ```
