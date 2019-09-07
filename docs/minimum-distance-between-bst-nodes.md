@@ -32,7 +32,6 @@ while the minimum difference in this tree is 1, it occurs between node 1 and nod
 	<li>The size of the BST will be between 2 and&nbsp;<code>100</code>.</li>
 	<li>The BST is always valid, each node&#39;s value is an integer, and each node&#39;s value is different.</li>
 </ol>
-
 </div>
 
 ## Solution(javascript)
